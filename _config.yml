@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haoyun Hong / Site Title"
+title                    : "Haoyun Hong / Research"
 title_separator          : "-"
 name                     : &name "Haoyun Hong"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpeg"
+  avatar           : "profile_photo.png"
   name             : "Haoyun Hong"
   pronouns         : "She/her/hers"  
   bio              : "Short biography for the left-hand sidebar"
@@ -41,7 +41,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Haoyun-Hong"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
