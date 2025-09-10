@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Haoyun (Elizabeth) Hong**, a PhD student in **Biomedical and Health Informatics** at University of Washington, Seattle.  
-I earned my **B.A. in Data Science** from UC Berkeley (2018–2022) and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
+Hi! I’m **Haoyun (Elizabeth) Hong**, a PhD student in **Biomedical and Health Informatics** at **University of Washington, Seattle**. 
+
+I earned my **B.A. in Data Science** from **University of Californiam, Berkeley** between 2018 and 2022 and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
 
 # Selected Research Projects  
 ### Get With The Guidelines (GWTG)  
@@ -29,7 +30,6 @@ In collaboration with clinical researchers, We have investigated various aspects
 - **Treatment Time and In-Hospital Mortality in STEMI Patients (2018–2021)**  
   Major contribution to manuscript revisions. 
   *Published in JAMA (IF: 120.7).*  
-
 
 ---
 
