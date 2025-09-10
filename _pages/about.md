@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Intro"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,7 +27,8 @@ Research Projects
 ======
 Get With the Guideline (GWTG)  
 -------
-----Need description of GWTG -----
+Get With The Guidelines (GWTG) Registries are a suite of quality improvement programs launched by the American Heart Association. These registries focus on tracking and improving the treatment of patients with cardiovascular conditions, including heart disease, stroke, and heart failure, by collecting real-time data from hospitals nationwide. GWTG Registries help healthcare providers adhere to the latest evidence-based guidelines, improve patient outcomes, and reduce treatment gaps by offering actionable insights through data-driven analysis and feedback. The program has also contributed to numerous research studies and publications in cardiovascular care.
+
 
 **1. Race-Based differences in STEMI process metrics and mortality from 2015 through 2021** (Oct 2022 - Jul 2023)
 * Cleaned, processed, and analyzed over 150K patient records in R and Python to assess racial difference in process metrics and mortality in STEMI care using Get with the Guideline - Coronary Artery Disease (GWTG-CAD) national registry.
