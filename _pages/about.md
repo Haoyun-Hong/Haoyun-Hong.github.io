@@ -13,14 +13,18 @@ I earned my **B.A. in Data Science** from UC Berkeley (2018–2022) and worked a
 # Selected Research Projects  
 ### Get With The Guidelines (GWTG)  
 A suite of in-patient quality improvement registries by the American Heart Assocaiton to improve treatment and outcomes. 
+<img src="https://www.heart.org/en/-/media/Images/Professional/Quality-Improvement/Get-With-the-Guidelines/GWTGLOGORGBHEXRedBlack.png?h=74&w=400&sc_lang=en" alt="Get With The Guidelines Logo" width="200">
+In collaboration with clinical researchers, We have investigated various aspects of STEMI care over the years including: 
 
 - **Race-Based Differences in STEMI Process Metrics and Mortality (2015–2021)**  
-  Analyzed 150K+ patient records, applied GEE models, and evaluated disparities in care and outcomes.  
   *Published in Circulation (IF: 37.8).*  
 
+- **Site-level variability in STEMI care**
+  *JAMA Cardiology (IF: 14.7)*
+
 - **Treatment Time and In-Hospital Mortality in STEMI Patients (2018–2021)**  
-  Major contributor to manuscript revisions.  
   *Published in JAMA (IF: 120.7).*  
+
 
 ---
 
