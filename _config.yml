@@ -21,7 +21,7 @@ repository               : "Haoyun-Hong/haoyun-hong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_photo.png"
+  avatar           : "/images/profile_photo.png"
   name             : "Haoyun Hong"
   pronouns         : "She/her/hers"  
   bio              : "PhD student in Biomedical and Health Informatics"
