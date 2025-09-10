@@ -1,23 +1,18 @@
 ---
 permalink: /
-title: 
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-# About Me  
-
 Hi! I’m **Haoyun (Elizabeth) Hong**, a PhD student in **Biomedical and Health Informatics** at University of Washington, Seattle.  
 I earned my **B.A. in Data Science** from UC Berkeley (2018–2022) and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
----
 
 # Selected Research Projects  
-
 ### Get With The Guidelines (GWTG)  
-A suite of quality improvement registries by the American Heart Association, focusing on real-time cardiovascular care data to improve treatment and outcomes.  
+A suite of in-patient quality improvement registries by the American Heart Assocaiton to improve treatment and outcomes. 
 
 - **Race-Based Differences in STEMI Process Metrics and Mortality (2015–2021)**  
   Analyzed 150K+ patient records, applied GEE models, and evaluated disparities in care and outcomes.  
