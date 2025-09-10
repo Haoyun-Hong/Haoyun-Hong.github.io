@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Intro"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
