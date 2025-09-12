@@ -20,8 +20,7 @@ A suite of in-patient quality improvement registries by the American Heart Assoc
 In collaboration with clinical researchers, We have investigated various aspects of STEMI care over the years including: 
 
 - <a href = "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065512" target="_blank"><strong> Race-Based Differences in ST-Segment–Elevation Myocardial Infarction Process Metrics and Mortality From 2015 Through 2021 </strong></a> 
-  <em>Published in Circulation (IF: 37.8).</em>  
-
+  <em>Circulation (IF: 37.8).</em>  
 
 - <a href="https://jamanetwork.com/journals/jamacardiology/article-abstract/2835031" target="_blank"><strong>Institutional Variability in Processes of Care and Outcomes Among Patients With STEMI in the US</strong></a>
   <em>JAMA Cardiology (IF: 14.7)</em>
@@ -37,6 +36,8 @@ A nationwide initiative engaging women in cardiovascular research.
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0146280623002700" target="_blank"><strong>Reproductive Experiences and Cardiovascular Disease Care in Pregnancy - Capable and Post menopausal Individuals</strong></a>
   <em>Current Problems in Cardiology (IF: 3.0)</em>
 
+- <a href="https://journals.sagepub.com/doi/full/10.1177/17455057241306807" target="_blank"><strong>Awareness of heart failure, blood pressure management and self-efficacy</strong></a>
+  <em>Women's Health (IF: 2.9)</em>
 ---
 
 ### Tobacco Center for Regulatory Science (ATRAC)  
