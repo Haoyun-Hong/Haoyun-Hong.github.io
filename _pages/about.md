@@ -48,21 +48,50 @@ In collaboration with clinical researchers, We have investigated various aspects
 </div>
 A nationwide initiative engaging women in cardiovascular research.  
 
-- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0146280623002700" target="_blank"><strong>Reproductive Experiences and Cardiovascular Disease Care in Pregnancy - Capable and Post menopausal Individuals</strong></a>
-  <em>Current Problems in Cardiology (IF: 3.0)</em>
+<div style="display:flex; flex-direction:column; gap:1em; max-width:800px; margin:auto;">
 
-- <a href="https://journals.sagepub.com/doi/full/10.1177/17455057241306807" target="_blank"><strong>Awareness of heart failure, blood pressure management and self-efficacy</strong></a>
-  <em>Women's Health (IF: 2.9)</em>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0146280623002700" target="_blank" 
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Reproductive Experiences and Cardiovascular Disease Care in Pregnancy - Capable and Postmenopausal Individuals</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Current Problems in Cardiology (IF: 3.0)</div>
+    </div>
+  </a>
+
+  <a href="https://journals.sagepub.com/doi/full/10.1177/17455057241306807" target="_blank"
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Awareness of heart failure, blood pressure management and self-efficacy</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Women's Health (IF: 2.9)</div>
+    </div>
+  </a>
+
+</div>
 
 
 ### AHA Tobacco Center for Regulatory Science (ATRAC)
 The overall goal of the American Heart Association Tobacco Center for Regulatory Science (A-TRAC 2.0) is to provide FDA with scientific evidence regarding the cardiovascular toxicity and health effects of tobacco products and their constituents, with a larger focus on new and emerging tobacco products. 
 
-- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11320712/" target="_blank"><strong>Catecholamine levels with use of electronic and combustible cigarettes</strong></a>
-  <em>Tobacco Induced Disease (IF: 2.8)</em>
+<div style="display:flex; flex-direction:column; gap:1em; max-width:800px; margin:auto;">
 
-- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12083078/" target="_blank"><strong>Clustering analysis of volatile organic compound biomarkers with tobacco exposure and the association with cardiovascular health outcomes in an observation study cohort </strong></a>
-  <em>Tobacco Induced Disease (IF: 2.8)</em>
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11320712/" target="_blank" 
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Catecholamine levels with use of electronic and combustible cigarettes</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Tobacco Induced Disease (IF: 2.8)</div>
+    </div>
+  </a>
+
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12083078/" target="_blank"
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Clustering analysis of volatile organic compound biomarkers with tobacco exposure and the association with cardiovascular health outcomes in an observation study cohort</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Tobacco Induced Disease (IF: 2.8)</div>
+    </div>
+  </a>
+
+</div>
+
 
 
 # In Progress  
