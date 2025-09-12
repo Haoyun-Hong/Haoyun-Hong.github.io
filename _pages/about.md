@@ -53,13 +53,17 @@ A nationwide initiative engaging women in cardiovascular research.
 
 - <a href="https://journals.sagepub.com/doi/full/10.1177/17455057241306807" target="_blank"><strong>Awareness of heart failure, blood pressure management and self-efficacy</strong></a>
   <em>Women's Health (IF: 2.9)</em>
----
 
-### Tobacco Center for Regulatory Science (ATRAC)  
-- **Catecholamine Levels in Electronic vs. Combustible Cigarette Users**  
-  *Published in Tobacco Induced Disease (IF: 2.8).*  
 
----
+### AHA Tobacco Center for Regulatory Science (ATRAC)
+The overall goal of the American Heart Association Tobacco Center for Regulatory Science (A-TRAC 2.0) is to provide FDA with scientific evidence regarding the cardiovascular toxicity and health effects of tobacco products and their constituents, with a larger focus on new and emerging tobacco products. 
+
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11320712/" target="_blank"><strong>Catecholamine levels with use of electronic and combustible cigarettes</strong></a>
+  <em>Tobacco Induced Disease (IF: 2.8)</em>
+
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12083078/" target="_blank"><strong>Clustering analysis of volatile organic compound biomarkers with tobacco exposure and the association with cardiovascular health outcomes in an observation study cohort </strong></a>
+  <em>Tobacco Induced Disease (IF: 2.8)</em>
+
 
 # In Progress  
 
