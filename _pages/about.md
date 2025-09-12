@@ -19,11 +19,26 @@ I earned my **B.A. in Data Science** from **University of Californiam, Berkeley*
 A suite of in-patient quality improvement registries by the American Heart Assocaiton to improve treatment and outcomes. 
 In collaboration with clinical researchers, We have investigated various aspects of STEMI care over the years including: 
 
-- <a href = "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065512" target="_blank"><strong> Race-Based Differences in ST-Segment–Elevation Myocardial Infarction Process Metrics and Mortality From 2015 Through 2021 </strong></a> 
-  <em>Circulation (IF: 37.8).</em>  
+<div style="display:flex; flex-direction:column; gap:1em; max-width:800px; margin:auto;">
 
-- <a href="https://jamanetwork.com/journals/jamacardiology/article-abstract/2835031" target="_blank"><strong>Institutional Variability in Processes of Care and Outcomes Among Patients With STEMI in the US</strong></a>
-  <em>JAMA Cardiology (IF: 14.7)</em>
+  <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065512" target="_blank" 
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Race-Based Differences in ST-Segment–Elevation Myocardial Infarction Process Metrics and Mortality From 2015 Through 2021</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Circulation (IF: 37.8)</div>
+    </div>
+  </a>
+
+  <a href="https://jamanetwork.com/journals/jamacardiology/article-abstract/2835031" target="_blank"
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Institutional Variability in Processes of Care and Outcomes Among Patients With STEMI in the US</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">JAMA Cardiology (IF: 14.7)</div>
+    </div>
+  </a>
+
+</div>
+
 
 ---
 
