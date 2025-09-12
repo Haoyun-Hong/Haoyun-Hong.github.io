@@ -29,9 +29,13 @@ In collaboration with clinical researchers, We have investigated various aspects
 ---
 
 ### Research Goes Red (RGR)  
+<div style="width:100%; text-align:center; margin: 2em 0;">
+<img src="https://www.goredforwomen.org/-/media/Images/Logos/Global-Do-No-Edit/Header/AHA_GRFW_LOGO2.png?h=166&w=216&sc_lang=en&hash=4A9F90F8752A9FA5A0D147FAC7B1A051" alt="Goes Red for women Logo" width="200">
+</div>
 A nationwide initiative engaging women in cardiovascular research.  
-- **Reproductive Experiences and Cardiovascular Disease Care**  
-  *Published in Current Problems in Cardiology (IF: 3.0).*  
+
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0146280623002700" target="_blank"><strong>Reproductive Experiences and Cardiovascular Disease Care in Pregnancy - Capable and Post menopausal Individuals</strong></a>
+  <em>Current Problems in Cardiology (IF: 3.0)</em>
 
 ---
 
