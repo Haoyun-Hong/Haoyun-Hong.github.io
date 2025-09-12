@@ -12,9 +12,7 @@ Hi! I’m **Haoyun (Elizabeth) Hong**, a PhD student in **Biomedical and Health 
 I earned my **B.A. in Data Science** from **University of Californiam, Berkeley** between 2018 and 2022 and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
 
 # Selected Research Projects  
-<h3 style="border-bottom: 3px solid #333; padding-bottom: 0.3em; margin-top: 2em; margin-bottom: 1em; font-size: 1.5em;">
-  Get With The Guidelines (GWTG)  
-</h3>
+### Get With The Guidelines (GWTG)
 <div style="width:100%; text-align:center; margin: 2em 0;">
 <img src="https://www.heart.org/en/-/media/Images/Professional/Quality-Improvement/Get-With-the-Guidelines/GWTGLOGORGBHEXRedBlack.png?h=74&w=400&sc_lang=en" alt="Get With The Guidelines Logo" width="200">
 </div>
@@ -27,7 +25,7 @@ In collaboration with clinical researchers, We have investigated various aspects
      style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
       <strong>Race-Based Differences in ST-Segment–Elevation Myocardial Infarction Process Metrics and Mortality From 2015 Through 2021</strong>
-      <div style="margin-top:0.5em; font-style:italic; color:#555;">Circulation (IF: 37.8)</div>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Circulation</div>
     </div>
   </a>
 
@@ -35,7 +33,23 @@ In collaboration with clinical researchers, We have investigated various aspects
      style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
       <strong>Institutional Variability in Processes of Care and Outcomes Among Patients With STEMI in the US</strong>
-      <div style="margin-top:0.5em; font-style:italic; color:#555;">JAMA Cardiology (IF: 14.7)</div>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">JAMA Cardiology</div>
+    </div>
+  </a>
+
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1553838925003902" target="_blank"
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Sex differences in high-potency P2Y12 inhibitors prescription among patients with acute myocardial infarction</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Cardiovascular Revascularization Medicine</div>
+    </div>
+  </a>
+
+  <a href="https://www.mdpi.com/2673-8112/5/8/114" target="_blank"
+     style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
+      <strong>Treatment Times and In-Hospital Mortality Among Patients with ST-Elevation Myocardial Infarction Throughout the Waves of the COVID-19 Pandemic: Lessons Learned</strong>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">COVID</div>
     </div>
   </a>
 
@@ -56,7 +70,7 @@ A nationwide initiative engaging women in cardiovascular research.
      style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
       <strong>Reproductive Experiences and Cardiovascular Disease Care in Pregnancy - Capable and Postmenopausal Individuals</strong>
-      <div style="margin-top:0.5em; font-style:italic; color:#555;">Current Problems in Cardiology (IF: 3.0)</div>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Current Problems in Cardiology</div>
     </div>
   </a>
 
@@ -64,7 +78,7 @@ A nationwide initiative engaging women in cardiovascular research.
      style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
       <strong>Awareness of heart failure, blood pressure management and self-efficacy</strong>
-      <div style="margin-top:0.5em; font-style:italic; color:#555;">Women's Health (IF: 2.9)</div>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Women's Health</div>
     </div>
   </a>
 
@@ -80,7 +94,7 @@ The overall goal of the American Heart Association Tobacco Center for Regulatory
      style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
       <strong>Catecholamine levels with use of electronic and combustible cigarettes</strong>
-      <div style="margin-top:0.5em; font-style:italic; color:#555;">Tobacco Induced Disease (IF: 2.8)</div>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Tobacco Induced Disease</div>
     </div>
   </a>
 
@@ -88,7 +102,7 @@ The overall goal of the American Heart Association Tobacco Center for Regulatory
      style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #ddd; border-radius:8px; padding:1em; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:transform 0.2s;">
       <strong>Clustering analysis of volatile organic compound biomarkers with tobacco exposure and the association with cardiovascular health outcomes in an observation study cohort</strong>
-      <div style="margin-top:0.5em; font-style:italic; color:#555;">Tobacco Induced Disease (IF: 2.8)</div>
+      <div style="margin-top:0.5em; font-style:italic; color:#555;">Tobacco Induced Disease</div>
     </div>
   </a>
 
