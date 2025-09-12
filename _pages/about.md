@@ -12,7 +12,9 @@ Hi! I’m **Haoyun (Elizabeth) Hong**, a PhD student in **Biomedical and Health 
 I earned my **B.A. in Data Science** from **University of Californiam, Berkeley** between 2018 and 2022 and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
 
 # Selected Research Projects  
-### Get With The Guidelines (GWTG)  
+<h3 style="border-bottom: 3px solid #333; padding-bottom: 0.3em; margin-top: 2em; margin-bottom: 1em; font-size: 1.5em;">
+  Get With The Guidelines (GWTG)  
+</h3>
 <div style="width:100%; text-align:center; margin: 2em 0;">
 <img src="https://www.heart.org/en/-/media/Images/Professional/Quality-Improvement/Get-With-the-Guidelines/GWTGLOGORGBHEXRedBlack.png?h=74&w=400&sc_lang=en" alt="Get With The Guidelines Logo" width="200">
 </div>
