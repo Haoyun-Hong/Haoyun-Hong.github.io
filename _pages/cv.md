@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
-## View My CV
 
 <iframe src="/files/Haoyun_Hong_CV.pdf" width="100%" height="800px" style="border:none;"></iframe>
 
