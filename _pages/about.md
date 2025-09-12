@@ -19,17 +19,12 @@ I earned my **B.A. in Data Science** from **University of Californiam, Berkeley*
 A suite of in-patient quality improvement registries by the American Heart Assocaiton to improve treatment and outcomes. 
 In collaboration with clinical researchers, We have investigated various aspects of STEMI care over the years including: 
 
-- **Race-Based Differences in STEMI Process Metrics and Mortality (2015–2021)**
-  Major contribution to majority of data curation and analysis.
-  *Published in Circulation (IF: 37.8).*  
+- <a href = "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065512" target="_blank"><strong> Race-Based Differences in ST-Segment–Elevation Myocardial Infarction Process Metrics and Mortality From 2015 Through 2021 </strong></a> 
+  <em>Published in Circulation (IF: 37.8).</em>  
 
-- **Site-level variability in STEMI care**
-  Lead data analysis. 
-  *JAMA Cardiology (IF: 14.7)*
 
-- **Treatment Time and In-Hospital Mortality in STEMI Patients (2018–2021)**  
-  Major contribution to manuscript revisions. 
-  *Published in JAMA (IF: 120.7).*  
+- <a href="https://jamanetwork.com/journals/jamacardiology/article-abstract/2835031" target="_blank"><strong>Institutional Variability in Processes of Care and Outcomes Among Patients With STEMI in the US</strong></a>
+  <em>JAMA Cardiology (IF: 14.7)</em>
 
 ---
 
