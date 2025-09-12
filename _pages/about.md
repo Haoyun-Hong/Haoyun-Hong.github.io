@@ -118,6 +118,3 @@ The overall goal of the American Heart Association Tobacco Center for Regulatory
 - **De-Biasing Clinical Care Algorithms (DECCA)** — description to be added.  
 - **Imputation & Mortality Modeling** — under development.  
 
----
-
-📄 For my **full CV**, see the [CV page](./cv/).  
