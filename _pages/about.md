@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m **Haoyun (Elizabeth) Hong**, a PhD student in **Biomedical and Health Informatics** at **University of Washington, Seattle**. 
 
-I earned my **B.A. in Data Science** from **University of Californiam, Berkeley** between 2018 and 2022 and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
+I earned my **B.A. in Data Science** from **University of California, Berkeley** between 2018 and 2022 and worked as a data scientist **Data Scientist / Statistical Analyst** at the **American Heart Association** from 2022 to 2025. 
 
 # Selected Research Projects  
 ### Get With The Guidelines (GWTG)
@@ -85,6 +85,8 @@ A nationwide initiative engaging women in cardiovascular research.
 </div>
 
 
+---
+
 ### AHA Tobacco Center for Regulatory Science (ATRAC)
 The overall goal of the American Heart Association Tobacco Center for Regulatory Science (A-TRAC 2.0) is to provide FDA with scientific evidence regarding the cardiovascular toxicity and health effects of tobacco products and their constituents, with a larger focus on new and emerging tobacco products. 
 
@@ -109,6 +111,7 @@ The overall goal of the American Heart Association Tobacco Center for Regulatory
 </div>
 
 
+---
 
 # In Progress  
 
